@@ -5,7 +5,6 @@
  */
 body {
   font-family: 'Open Sans', serif;
-  font-size: 13px;
   padding-top: 54px;
   color: #000000; }
 
@@ -107,9 +106,9 @@ section.resume-section {
   background-color: #2980b9 !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #2980b9 !important; }
 
 a {
-  color: #BD5D38; }
+  color: #2980b9; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #2980b9; }
